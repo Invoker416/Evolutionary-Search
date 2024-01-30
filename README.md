@@ -1,9 +1,7 @@
 # Genetic Algorithms in Python
-This repository contains Python implementations of genetic algorithms for demonstrating various evolutionary computation concepts.
+This repository contains Python implementations of genetic algorithms for solving different problems, showcasing concepts in evolutionary computation. The code is structured into two main scripts.
 
 # Code Structure Description
-
-This repository contains Python implementations of genetic algorithms for solving different problems, showcasing concepts in evolutionary computation. The code is structured into two main scripts:
 
 1. **Deceptive Landscape.py**: This script implements a genetic algorithm for the Deceptive Landscape problem. The algorithm challenges the genetic optimization process by using a deceptive fitness function. The key components of the code include:
    - `generate_initial_population`: Creates an initial population of random binary strings.
